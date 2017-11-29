@@ -1,0 +1,119 @@
+@charset "utf-8";
+/* CSS Document */
+
+.form_cont {
+    background: #FFF;
+	margin: 20px auto;
+	width: 350px;
+	height: auto;
+	border: 2px solid #458fef;
+	padding: 15px;
+}
+.input_cont {
+	width: 100%;
+	height: 230px;
+    align-content: center;
+}
+.img_cont {
+	width: 150px;
+	height: 150px;
+	border-radius: 100%;
+	border: 3px solid #458fef;
+    position: relative;
+	margin: 0 auto;
+}
+.inputClass {
+	width: 100%;
+    margin: 10px 0;
+	display: block;
+	border: 1px solid #458fef;
+	box-sizing: border-box;
+	padding: 10px 15px;
+}
+label {
+	margin-top: 15px;
+}
+.loginSubmit {
+	width: 100%;
+	height: 40px;
+	color: #FFF;
+	cursor: pointer;
+	background-color: #458fef;
+	border: none;
+	margin: 10px 0;
+}
+.loginSubmit:hover {
+	opacity: 0.8;
+}
+.passwordSpan {
+	float: right;
+}
+.errorSpan {
+	color: red;
+}
+.signUpDiv {
+	float: left;
+}
+.dateInput {
+	width: 40px;
+	margin: 10px 6px 0 0;
+	text-align: right;
+}
+.dateCont {
+	width: 50%;
+	float: left;
+}
+.dateSpan {
+	display: block;
+}
+.genderSpan {
+	padding-left: 20px;
+}
+.genderLabelCont {
+	text-align: center;
+	margin-bottom: 8px;
+}
+.tooLogin {
+	text-align: center;
+}
+.verifyCont {
+	background: #FFF;
+	position: relative;
+	margin: 50px auto;
+	width: 350px;
+	height: 100px;
+	border: 1px solid #458fef;
+}
+.verifiyTitle {
+	width: 100%;
+	height: 25px;
+	padding-top: 5px;
+	float: left;
+	background: #458fef;
+	text-align: center;
+}
+.verifiyTitle>p {
+	color: #fff;
+}
+
+.account_username {
+	width: 100%;
+	text-align: center;
+	margin-top: 15px;
+	border: 1px solid #458fef;	
+}
+.titleSpan {
+	text-align: right;
+	font-weight: bold;
+	padding-right: 15px;
+	
+}
+.valueSpan {
+	text-align: left;
+	padding-left: 15px;
+}
+.toImageGallery {
+	width: 100%;
+	height: 40px;
+	background-color: #458fef;
+}
